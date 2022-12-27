@@ -1,0 +1,15 @@
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\bin\Debug\net6.0\AOCDay7.exe
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\bin\Debug\net6.0\AOCDay7.deps.json
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\bin\Debug\net6.0\AOCDay7.runtimeconfig.json
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\bin\Debug\net6.0\AOCDay7.dll
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\bin\Debug\net6.0\AOCDay7.pdb
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\obj\Debug\net6.0\AOCDay7.csproj.AssemblyReference.cache
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\obj\Debug\net6.0\AOCDay7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\obj\Debug\net6.0\AOCDay7.AssemblyInfoInputs.cache
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\obj\Debug\net6.0\AOCDay7.AssemblyInfo.cs
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\obj\Debug\net6.0\AOCDay7.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\obj\Debug\net6.0\AOCDay7.dll
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\obj\Debug\net6.0\refint\AOCDay7.dll
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\obj\Debug\net6.0\AOCDay7.pdb
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\obj\Debug\net6.0\AOCDay7.genruntimeconfig.cache
+C:\Users\Ethan Worden\OneDrive\Desktop\AOC\AOCDay7\AOCDay7\obj\Debug\net6.0\ref\AOCDay7.dll
